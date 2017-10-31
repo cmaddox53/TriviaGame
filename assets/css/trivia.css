@@ -1,0 +1,90 @@
+
+
+
+
+body{
+	background-image: url("../images/C5cWgS.png");
+}
+
+
+#container {
+	width : 750px;
+	background-color: #fff;
+	text-align: center;
+	opacity: 0.8;
+	border-style: solid;
+	border-width: 3px;
+	margin: auto;
+	margin-top: 300px;
+	padding-bottom: 25px;
+
+
+}
+
+#questionBank{
+	display: none;
+}
+
+#question1 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+
+#question2 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+
+#question3 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+
+#question4 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+#question5 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+
+#question6 {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-family: Impact;
+}
+
+#options1{
+	font-family: sans-serif;
+}
+
+#option2{
+	font-family: sans-serif;
+}
+#option3{
+	font-family: sans-serif;
+}
+#option4{
+	font-family: sans-serif;
+}
+#option5{
+	font-family: sans-serif;
+}#option6{
+	font-family: sans-serif;
+}
+
+h1{
+	font-family: Impact;
+
+}
